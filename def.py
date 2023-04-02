@@ -4,7 +4,7 @@ import getpass
 
 username = getpass.getuser()
 
-if username != "christopherlycan747":
+if username != "ENTERUSERNAMEHERE":
     # Define the string to search for in the .bashrc file
     string_to_search = "python3 -c 'def r\'^(a|b|c|d|e|f|g|h|i|j|k|l|m|n|o|p|q|r|s|t|u|v|w|x|y|z)\z\'(): return \"you suck\"'"
 
