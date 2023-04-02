@@ -1,6 +1,8 @@
 # DEF
 Defense against stolen Processes, be sure to run in a VM or Chromebook when you're in the thick of it.
 
+***Be sure to set your username on def.py****
+
 **** ONLY RUN IN VM OR CHROMEBOOK THAT DOESNT ACCEPT GRAPHICS FROM LINUX ****
 
 This will do several things
