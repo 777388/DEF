@@ -17,7 +17,7 @@ This will do several things
 
 - Loopback server that sends hacks back to sender
 
-in order to use this correctly implement this code into your .bashrc:
+in order to use this correctly implement this code into your .bashrc and run "a" in terminal:
 
 function lose(){
 
