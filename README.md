@@ -17,7 +17,7 @@ This will do several things
 
 - Nondeterminism 
 
-- Loopback server that sends hacks back to sender
+- Loopback server that sends hacks back to sender while replacing any IP's in the request with your own
 
 in order to use this correctly implement this code into your .bashrc and run "a" in terminal:
 
