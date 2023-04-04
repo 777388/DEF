@@ -38,6 +38,8 @@ function lose(){
   nohup python3 def.py &
   
   nohup python3 udploop.py &
+  
+  nohup python3 raw.py &
 
 }
 
