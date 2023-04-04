@@ -36,6 +36,8 @@ function lose(){
   nohup python3 cascade.py &
 
   nohup python3 def.py &
+  
+  nohup python3 udp.py &
 
 }
 
