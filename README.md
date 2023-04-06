@@ -19,6 +19,10 @@ This will do several things
 
 - Loopback server that sends hacks back to sender while replacing any IP's in the request with your own
 
+- Raw Packet return IP alterration sending back any hacked packets or AI packets that are sent your way so you both get the same results.
+
+- Packet capture that puts a link to one of my songs with an AI in it for scare tactics. Psyops are not illegal.
+
 in order to use this correctly implement this code into your .bashrc and run "a" in terminal:
 
 function lose(){
@@ -40,6 +44,8 @@ function lose(){
   nohup python3 udploop.py &
   
   nohup python3 raw.py &
+  
+  nohup python3 packet.py &
 
 }
 
